@@ -239,6 +239,6 @@ E. Rajesh (rediga2@gitam.in)
 
 ## 🙏 Acknowledgments
 
-- Built as part of Infosys SpringBoard Virtual Internship 6.0
-- Special thanks to faculty advisors and mentors
+- Built as part of Infosys SpringBoard Virtual Internship 6.0.
+- Special thanks to faculty Maheshvaran sir, advisors and mentors.
 - Great pleasure to work with the amazing team mates.
