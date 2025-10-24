@@ -313,8 +313,3 @@ E. Rajesh (rediga2@gitam.in)
 - Built as part of Infosys SpringBoard Virtual Internship 6.0
 - Special thanks to faculty advisors and mentors
 - Great pleasure to work with the amazing team mates.
-
----
-
-**Note**: Remember to update the database credentials and JWT secret in production environments!
-
